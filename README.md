@@ -10,9 +10,13 @@ experiment.ipynb shows the workflow of the experiments, including:
 To run the experiments:
 
 bash scripts/evaluate/tim_gd/mini.sh
+
 bash scripts/evaluate/tim_gd/CUB.sh
+
 bash scripts/evaluate/tim_gd/tiered.sh
+
 bash scripts/evaluate/tim_gd/mini2cub.sh
+
 bash scripts/evaluate/tim_gd/mini_10_20_ways.sh
 
 
