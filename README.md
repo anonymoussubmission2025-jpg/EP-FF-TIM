@@ -1,9 +1,13 @@
 EP-FF-TIM
 
 experiment.ipynb shows the workflow of the experiments, including:
+
 -Downloading and setting up the datasets
+
 -Downloading and setting up the backbone model weights
+
 -Downloading and setting up the environment
+
 -Running the experiments
 
 
@@ -19,6 +23,7 @@ bash scripts/evaluate/tim_gd/mini2cub.sh
 
 bash scripts/evaluate/tim_gd/mini_10_20_ways.sh
 
+.
 
 The relevant files can also be accessed here
 
